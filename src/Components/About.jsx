@@ -16,26 +16,26 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/technology.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Technology Light in hand abstract background";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am an IT student with a strong desire to become a software engineer. Armed with extensive knowledge in web development, I have honed my skills in various aspects of the field. Additionally, I am the founder of Sehassemon Training Service, a platform dedicated to providing training in IT skills, including web development, graphic design, and cybersecurity.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
+  "Web developer",
   "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
+  "WordPress",
+  "IT and Leadership trainer",
+  "Microsoft 365",
   "Graphic design",
 ];
 

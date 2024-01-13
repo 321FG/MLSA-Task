@@ -86,7 +86,7 @@ const Footer = (props) => {
         )}
         {linkedIn && (
           <a
-            href={`https://www.linkedin.com/in/${linkedIn}`}
+            href={`https://www.linkedin.com/in/julius-chrysostome-sehassemon-kitha-393a20258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app`}
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -114,7 +114,7 @@ const Footer = (props) => {
         )}
       </div>
       <p className="small" style={{ marginTop: 0, color: "white" }}>
-        Created by {}
+        Created by Julius Chrysostome
       </p>
     </div>
   );
